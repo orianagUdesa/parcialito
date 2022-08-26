@@ -7,9 +7,9 @@
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-around;
-    align-items: center;
     background-color: rgba(162, 113, 207, 0.691);
     height: 650px;
+    align-items: center;
 }
 
 img{
@@ -43,7 +43,7 @@ img{
     padding: 15px;
     max-height: max-content;
     order: -2;
-    align-self: flex-start;
+    align-self: stretch;
 }
 
 .item4 {
