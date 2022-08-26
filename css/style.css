@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+section {
+    background-color: rgba(162, 113, 207, 0.691);
+    height: 650px;
+}
+
+.item {
+    background-color: rgba(122, 230, 194, 0.787);
+    margin: 15px;
+    max-height: 100px;
+    display: block;
+    padding: 15px;
+}
+
+img{
+    max-height: 100px;
+}
