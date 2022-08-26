@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 .container {
     display:flex;
     flex-wrap: wrap;
@@ -6,7 +10,6 @@
     align-items: center;
     background-color: rgba(162, 113, 207, 0.691);
     height: 650px;
-    box-sizing: border-box;
 }
 
 img{
