@@ -1,4 +1,4 @@
-section {
+.container {
     display:flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -16,7 +16,6 @@ img{
 .item {
     background-color: rgba(122, 230, 194, 0.787);
     margin: 15px;
-    max-height: 100px;
     display: block;
     padding: 15px;
     max-height: max-content;
@@ -27,7 +26,6 @@ img{
 .item2 {
     background-color: rgba(122, 230, 194, 0.787);
     margin: 15px;
-    max-height: 100px;
     display: block;
     padding: 15px;
     max-height: max-content;
@@ -38,7 +36,6 @@ img{
 .item3 {
     background-color: rgba(122, 230, 194, 0.787);
     margin: 15px;
-    max-height: 100px;
     display: block;
     padding: 15px;
     max-height: max-content;
@@ -49,7 +46,6 @@ img{
 .item4 {
     background-color: rgba(122, 230, 194, 0.787);
     margin: 15px;
-    max-height: 100px;
     display: block;
     padding: 15px;
     max-height: max-content;
@@ -60,7 +56,6 @@ img{
 .item5 {
     background-color: rgba(122, 230, 194, 0.787);
     margin: 15px;
-    max-height: 100px;
     display: block;
     padding: 15px;
     max-height: max-content;
