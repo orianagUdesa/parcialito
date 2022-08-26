@@ -15,6 +15,7 @@ section {
     max-height: 100px;
     display: block;
     padding: 15px;
+    max-height: max-content;
 }
 
 img{
